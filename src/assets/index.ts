@@ -1,0 +1,18 @@
+export const images = {
+  plus: require('./images/plus.png'),
+  telephone: require('./images/telephone.png'),
+  stethoscope: require('./images/stethoscope.png'),
+  notification: require('./images/notification.png'),
+  dots: require('./images/dots.png'),
+  settings: require('./images/settings.png'),
+  logout: require('./images/logout.png'),
+  disc: require('./images/disc.png'),
+  appVersion: require('./images/app_version.png'),
+  buildVersion: require('./images/build_version.png'),
+  bundleIdentifier: require('./images/bundle_identifier.png'),
+  batteryLevel: require('./images/battery_level.png'),
+  blank_profile: require('./images/blank_profile.png'),
+  HomeIcon: require('./images/home_icon.png'),
+  DeviceIcon: require('./images/list.png'),
+  AccountIcon: require('./images/account_icon.png'),
+};
